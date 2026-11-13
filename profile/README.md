@@ -22,7 +22,7 @@ The name is Slovenian for spider. The workflow is reduction: from a huge graph t
 
 Use datasets you collected, licensed, or were given for a project you administer. Keep partitions with the codebook. Do not scrape private accounts into a .net file.
 
-![Pajek](https://www.researchgate.net/profile/Vala-Rohani/publication/233927861/figure/fig4/AS:670548367519748@1536882597212/Pajek-software-interface.png)
+![Pajek](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXS28ZzP9LTZAwio273fUJ16mV48QVMhbpfLBpsgZJw&s=10)
 
 ---
 
